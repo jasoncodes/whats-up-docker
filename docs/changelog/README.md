@@ -1,5 +1,8 @@
 # Changelog
 
+# 5.16.3
+- :fire: Downgrade Alpine version from `3.15` to `3.12` because of Raspberry Pi segfaults
+
 # 5.16.2
 - :fire: [Docker / Docker-compose trigger] - Fix prune old image when updateKind=digest
 
