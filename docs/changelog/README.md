@@ -1,5 +1,8 @@
 # Changelog
 
+# dev
+- :star: Update all dependencies
+
 # 5.18.0
 - :star: Add support for `prerelease` placeholder in link templates
 - :fire: Rename trigger `single` mode to `simple` mode for better consistency with `simple_title` and `simple_body` variables
